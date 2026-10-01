@@ -31,3 +31,20 @@
 - **Situs:** MetService — Te Ratonga Tirorangi
 - **Lokasi:** Wanaka, New Zealand
 - **Tautan:** [Buka halaman cuaca Auckland](https://www.metservice.com/towns-cities/regions/southern-lakes/locations/wanaka)
+
+# SafeSwim
+- **Situs:** SafeSwim
+- **Negara:** New Zealand
+- **Tautan:** [Buka situs SafeSwim](https://safeswim.org.nz/)
+
+# GeoNet — Gempa Bumi
+- **Situs:** GeoNet
+- **Halaman:** Earthquake
+- **Negara:** New Zealand
+- **Tautan:** [Buka halaman gempa GeoNet](https://www.geonet.org.nz/earthquake)
+
+# GeoNet — Gunung Api
+- **Situs:** GeoNet
+- **Halaman:** Volcano 
+- **Negara:** New Zealand
+- **Tautan:** [Buka halaman gunung api GeoNet](https://www.geonet.org.nz/volcano)
